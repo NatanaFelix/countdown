@@ -1,0 +1,43 @@
+.tudo{
+    height: 150px;
+    padding-inline-start: 260px;
+    padding-top: 120px;
+}
+
+.time-section{
+    height: 100px;
+    width: 100px;
+    border-radius: 10%;
+    background: linear-gradient( hsl(236, 21%, 26%) 50%, hsl(236, 21%, 26%) 0 );
+    color: hsl(345, 95%, 68%);
+    font-size: 70px;
+    font-weight: 700;
+    box-shadow: 0 10px 10px  hsl(234, 17%, 12%);
+    position: relative;
+    text-align: center;
+    display: inline-block;
+    margin-left: 80px; 
+    
+}
+
+.primeiro{
+    content: "";
+    position:absolute;
+    width: 100%;
+    height: .14rem;
+    background-color: #17181b;
+    margin-top: 75px;
+    
+
+}
+.time-text{
+    color: HSL(237°, 18%, 59%);
+    font-size: 15PX;
+}
+
+.frase{
+    color: hsl(0, 0%, 100%);
+    padding-bottom: 50px;
+    padding-left: 200px;
+    font-size:xx-large;
+}
